@@ -4,6 +4,7 @@ body
     margin-right:auto;
     margin-left:auto;
     width:600px;
+    background-image: url('../images/pink.gif');
 }
 
 p {
