@@ -1,0 +1,13 @@
+body 
+{
+    direction:rtl;
+    margin-right:auto;
+    margin-left:auto;
+    width:600px;
+}
+
+p {
+    font-size:25px;
+    margin-bottom:5px;
+}
+
